@@ -1,0 +1,43 @@
+.box-container {
+  display: flex;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  margin: 4rem 15rem;
+}
+
+.in-put {
+  width: 14rem;
+  height: 1.5rem;
+}
+
+.ex-put {
+  width: 30rem;
+  height: 1.5rem;
+}
+
+#button {
+  width: 31rem;
+  height: 2.3rem;
+  border-radius: 5px;
+  background-color: rgb(10, 133, 57);
+  border-color: rgb(10, 133, 57);
+  margin-top: 60px;
+  color: white;
+}
+
+.teex {
+  font-weight: 700;
+  font-size: 16px;
+}
+#txt2 {
+  margin-top: 40px;
+}
+
+#li {
+  margin-left: 20px;
+}
+
+ul {
+  list-style: none;
+}
